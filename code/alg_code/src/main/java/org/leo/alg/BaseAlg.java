@@ -11,6 +11,7 @@ public abstract class BaseAlg {
     protected abstract void run();
 
     public void start() {
+        System.out.println("Begin run alg: " + this.getClass().getSimpleName());
         this.prepare();
         this.run();
     }

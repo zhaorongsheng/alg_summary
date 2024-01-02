@@ -1,6 +1,7 @@
 package org.leo.alg.array;
 
 import org.leo.alg.BaseAlg;
+import org.leo.alg.array.impl.MaxArea;
 import org.leo.alg.array.impl.TwoSum;
 
 import java.util.Arrays;
@@ -14,9 +15,9 @@ import java.util.List;
 public class ArrayAlg {
 
     public static void main(String[] args) {
-        System.out.println("hello world");
         List<BaseAlg> algList = Arrays.asList(
-                new TwoSum()
+//                new TwoSum(),
+                new MaxArea()
         );
         algList.forEach(BaseAlg::start);
 
