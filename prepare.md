@@ -82,7 +82,9 @@
 
 ### 1.1. 数组
 
-- [x] [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
+- [] [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
+- [] [11. 盛最多水容器(看了答案)](https://leetcode.cn/problems/container-with-most-water/description/)
+- [] [15. 三数之和(有了初步想法后，看了答案)](https://leetcode.cn/problems/3sum/submissions/)
 - [x] [26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 - [x] [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)
 - [x] [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
