@@ -322,7 +322,7 @@
 
 ### 1.12. 字符串
 
-- [x] [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+- [] [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)
 - [x] [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 - [x] [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
 - [x] [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)

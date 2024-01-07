@@ -5,6 +5,10 @@ import java.util.Set;
 
 import org.leo.alg.BaseAlg;
 
+/**
+ * @Description 不重复的最长公共子串：https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/
+ * 
+ */
 public class LongestSubStrWORepeat extends BaseAlg {
     private String s;
 
@@ -22,6 +26,11 @@ public class LongestSubStrWORepeat extends BaseAlg {
         assert result == 1;
     }
 
+    /**
+     * 时间复杂度O(n)，空间复杂度O(1)
+     * @param s
+     * @return
+     */
     public int lengthOfLongestSubstring(String s) {
         if (s == null || s.isEmpty()) {
             return 0;
