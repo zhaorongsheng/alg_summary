@@ -4,6 +4,7 @@ import org.leo.alg.array.impl.ColorClassify;
 import org.leo.alg.array.impl.MaxArea;
 import org.leo.alg.array.impl.ThreeNumSum;
 import org.leo.alg.array.impl.TwoSum;
+import org.leo.alg.string.LongestSubStrWORepeat;
 
 import java.util.Arrays;
 import java.util.List;
@@ -20,8 +21,11 @@ public class AlgMain {
             // 数组相关算法
 //                new TwoSum(),
 //                new MaxArea(),
-                new ThreeNumSum(),
-                new ColorClassify()
+                // new ThreeNumSum(),
+                // new ColorClassify(),
+                // 字符串相关
+                new LongestSubStrWORepeat()
+
         );
         algList.forEach(BaseAlg::start);
 
